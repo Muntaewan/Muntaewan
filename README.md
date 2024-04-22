@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntaewan)](https://github.com/Muntaewan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntaewan &layout=compact)](https://github.com/Muntaewan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntaewan&layout=compact)](https://github.com/Muntaewan/github-readme-stats)
 
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
